@@ -1,6 +1,0 @@
-colorama
-traitlets
-DateTime
-ipython
-pyserial
-cryptography
