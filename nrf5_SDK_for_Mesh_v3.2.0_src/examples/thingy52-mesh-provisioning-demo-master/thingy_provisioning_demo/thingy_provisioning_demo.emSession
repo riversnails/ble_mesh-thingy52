@@ -23,6 +23,8 @@
  <Project>
   <ProjectSessionItem path="Thingy52-mesh-provisioning"/>
   <ProjectSessionItem path="Thingy52-mesh-provisioning;Thingy52-mesh-provisioning-demo-v0.6"/>
+  <ProjectSessionItem path="Thingy52-mesh-provisioning;Thingy52-mesh-provisioning-demo-v0.6;_Custom_add"/>
+  <ProjectSessionItem path="Thingy52-mesh-provisioning;Thingy52-mesh-provisioning-demo-v0.6;_Custom_add;test_make folder"/>
   <ProjectSessionItem path="Thingy52-mesh-provisioning;Thingy52-mesh-provisioning-demo-v0.6;Access"/>
   <ProjectSessionItem path="Thingy52-mesh-provisioning;Thingy52-mesh-provisioning-demo-v0.6;Application"/>
   <ProjectSessionItem path="Thingy52-mesh-provisioning;Thingy52-mesh-provisioning-demo-v0.6;Core"/>
@@ -60,8 +62,8 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="31" y="739" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="src/main.c" selected="0" top="242" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="30" y="233" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="src/test_model.c" selected="1" top="253" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="23" y="94" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="src/main.c" selected="1" top="80" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="271" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="src/test_model.c" selected="0" top="253" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="44" y="88" useTextEdit="1" openedFrom="C:/Users/user/Documents/workspace/thingy52_mesh_test/nrf5_SDK_for_Mesh_v3.2.0_src/examples/thingy52-mesh-provisioning-demo-master/thingy_provisioning_demo/src/test_model.c" useBinaryEdit="0" left="0" path="include/test_model.h" selected="0" top="54" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="9" y="141" useTextEdit="1" openedFrom="C:/Users/user/Documents/workspace/thingy52_mesh_test/nrf5_SDK_for_Mesh_v3.2.0_src/examples/common/src/app_onoff.c" useBinaryEdit="0" left="0" path="src/test_model_server.c" selected="0" top="138" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="51" y="10" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="include/test_model_server.h" selected="0" top="105" codecName="Default"/>
@@ -71,6 +73,7 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="31" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="include/device_addr_manager.h" selected="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="22" y="7" useTextEdit="1" openedFrom="C:/Users/user/Documents/workspace/thingy52_mesh_test/nrf5_SDK_for_Mesh_v3.2.0_src/examples/thingy52-mesh-provisioning-demo-master/thingy_provisioning_demo/src/main.c" useBinaryEdit="0" left="0" path="include/test_data_type.h" selected="0" top="3" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="636" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../mesh/core/src/transport.c" selected="0" top="627" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="48" y="31" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="SDKPatch/sx150x_led_drv_calc.c" selected="0" top="12" codecName="Default"/>
  </Files>
  <ARMCrossStudioWindow activeProject="Thingy52-mesh-provisioning-demo-v0.6" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
